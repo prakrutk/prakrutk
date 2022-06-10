@@ -47,7 +47,7 @@ I'm a junior undergraduate student in Mechanical Engineering at [Visvesvaraya Na
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakrutk&theme=dark" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=prakrutk&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=prakrutk&show_icons=true&theme=dark" />
 
 
 
