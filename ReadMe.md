@@ -1,7 +1,8 @@
 # 💫About Me :
-I have recently completed my undergraduate degree in Mechanical Engineering from VNIT, Nagpur, and I am currently working as Research Assistant at RRC in IIIT Hyderabad. 
+I am currently a graduate student at Robert Bosch Centre of Cyber Physical Systems, IISc, Bangalore, India.
 
-- I’m currently working on Trajectory Optimization (focused on Bipedal Systems) and implementing few Optimal Control algorithms on Underactuated Systems as well as researching on Reconfigurable Robot locomotion.
+
+- I’m currently working on Learning dynamics (focused on Bipedal Systems) and implementing few Optimal Control algorithms on Underactuated Systems.
 - I’m looking forward to researching various ways to integrate Optimal Controls with new advancements in Reinforcement Learning and applying them on Reconfigurable systems.
 - Check out some of the projects of our growing community that I'm part of at - IvLabs
 
